@@ -2,6 +2,9 @@
 
 This is a simple scientific calculator built with HTML, CSS, and PHP. It can perform basic arithmetic operations as well as more complex mathematical functions, but only for two numbers, so it is simple !
 
+## ScreenShot
+![A Screenshot](/Screenshot.png)
+
 ## Getting Started
 To use this calculator, simply open the index.php file in your web browser. Enter two numbers in the input fields provided and click one of the available buttons to perform the corresponding mathematical operation. The result will be displayed below in the answer section.
 
